@@ -37,7 +37,8 @@ The system is designed using an interrupt-driven approach for effective communic
 ---------------------------------------------------------------------------------
 
 ## 🔔 Buzzer Output
-
+<div align = "center">
+ 
 | Condition	| Buzzer Behavior |
 | :----------- | :-------------- |
 | Distance < 10 cm | Continuous ON |
@@ -46,6 +47,8 @@ The system is designed using an interrupt-driven approach for effective communic
 | 300 cm < Distance < 400 cm | Slow Beep |
 | Distance > 400 cm | OFF |
 | Sensor Fails (>400) | OFF |
+
+</div>
 
 ---------------------------------------------------------------------------------
 ## 🛠️ Tech Stack
