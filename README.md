@@ -68,15 +68,34 @@ The system is designed using an interrupt-driven approach for effective communic
 - Building a multi-node embedded system
 
 ---------------------------------------------------------------------------------
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ## 🤝 Let's Connect
 
 I'm always open to collaborating on **Embedded Systems** or **Firmware**. Feel free to reach out!
-# ⭐ If you found this interesting, consider giving it a star!
+
+⭐ If you found this interesting, consider giving it a star!
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ijaidevpandya)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandya99jaidev@gmail.com)
 </div>
+
+<p align="center">
+
+![Release](https://img.shields.io/github/v/release/jaidev-11/ARM-based-Reverse-Parking-Assistance-System-using-CAN-Protocol?include_prereleases)
+![License](https://img.shields.io/github/license/jaidev-11/ARM-based-Reverse-Parking-Assistance-System-using-CAN-Protocol)
+![GitHub Stars](https://img.shields.io/github/stars/jaidev-11/ARM-based-Reverse-Parking-Assistance-System-using-CAN-Protocol)
+[![Forks](https://img.shields.io/github/forks/jaidev-11/ARM-based-Reverse-Parking-Assistance-System-using-CAN-Protocol)](https://github.com/jaidev-11/ARM-based-Reverse-Parking-Assistance-System-using-CAN-Protocol/network/members)
+![Issues](https://img.shields.io/github/issues/jaidev-11/ARM-based-Reverse-Parking-Assistance-System-using-CAN-Protocol)
+![Pull Requests](https://img.shields.io/github/issues-pr/jaidev-11/ARM-based-Reverse-Parking-Assistance-System-using-CAN-Protocol)
+![Last Commit](https://img.shields.io/github/last-commit/jaidev-11/ARM-based-Reverse-Parking-Assistance-System-using-CAN-Protocol)
+![Repo Size](https://img.shields.io/github/repo-size/jaidev-11/ARM-based-Reverse-Parking-Assistance-System-using-CAN-Protocol)
+![Language](https://img.shields.io/github/languages/top/jaidev-11/ARM-based-Reverse-Parking-Assistance-System-using-CAN-Protocol)
+
+</p>
 
 ---------------------------------------------------------------------------------
 ## 👨🏽‍🚀Author
